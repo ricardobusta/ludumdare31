@@ -1,0 +1,6 @@
+resolução:
+1024x768
+tile:
+32x32
+personagem
+32x64
