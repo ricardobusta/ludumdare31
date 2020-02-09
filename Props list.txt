@@ -1,0 +1,22 @@
++ Estante de livros
++ Cama Casal
+- Cama piveta
++ Fogão
++ Armarios'
++ Geladeira
+- Tv
+- Sofa
+- Tapete
+- Mesa de Jantar + Cadeiras
+- Mesa da Cozinha + Bancos
+- Espelho
+- Guarda roupas
+- Corpos
+- Privada 
+- Banheira + Choveiro + Cortina
+- Estante de livros (esquerda)
+- Prateleiras
+- Armarios'
+- Panelas + facas na parede
+- Movel + telefone
+
