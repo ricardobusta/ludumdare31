@@ -1,5 +1,7 @@
 6 December 2014
 
+Game: Lightswitch
+
 This is a psychologic thriller exploration game. Your family is missing and you have to solve this strange mistery. Never forget to switch the lights off when leaving a room.
 
 Instructions:
