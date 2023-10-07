@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="flow.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="439.55079"
+     inkscape:cy="656.94512"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:none"
+       id="path2985"
+       sodipodi:cx="128.57143"
+       sodipodi:cy="126.6479"
+       sodipodi:rx="21.428572"
+       sodipodi:ry="21.428572"
+       d="m 150,126.6479 a 21.428572,21.428572 0 1 1 -42.85715,0 21.428572,21.428572 0 1 1 42.85715,0 z"
+       transform="matrix(0.46519211,0,0,0.46278887,22.525912,120.75655)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.86638927px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="65.162758"
+       y="166.90321"
+       id="text2987"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0025931,0.9974136)"><tspan
+         sodipodi:role="line"
+         id="tspan2989"
+         x="65.162758"
+         y="166.90321">Início</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2991"
+       width="117.62715"
+       height="40.665291"
+       x="23.690199"
+       y="265.47659"
+       rx="15.714287"
+       ry="15.714287" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.27128601000000100px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:2.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+       x="82.629707"
+       y="281.85986"
+       id="text3761"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0025931,0.9974136)"><tspan
+         sodipodi:role="line"
+         x="82.629707"
+         y="281.85986"
+         id="tspan3765"
+         style="text-align:center;text-anchor:middle;stroke-width:2.00000001;stroke-miterlimit:4;stroke-dasharray:none">Personagem</tspan><tspan
+         sodipodi:role="line"
+         x="82.629707"
+         y="298.44897"
+         style="text-align:center;text-anchor:middle;stroke-width:2.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan3777">Acorda</tspan></text>
+    <rect
+       ry="15.714287"
+       rx="15.714287"
+       y="204.65291"
+       x="23.690199"
+       height="40.665291"
+       width="117.62715"
+       id="rect3767"
+       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3769"
+       y="220.87845"
+       x="41.043556"
+       style="font-size:13.27128601000000100px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:2.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+       xml:space="preserve"
+       transform="scale(1.0025931,0.9974136)"><tspan
+         y="220.87845"
+         x="41.043556"
+         id="tspan3771"
+         sodipodi:role="line">Ruidos e sons</tspan><tspan
+         id="tspan3773"
+         y="237.46756"
+         x="41.043556"
+         sodipodi:role="line">de pesadelo</tspan></text>
+    <rect
+       ry="15.714287"
+       rx="15.714287"
+       y="325.63913"
+       x="23.690199"
+       height="40.665291"
+       width="117.62715"
+       id="rect3779"
+       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3781"
+       y="351.45819"
+       x="82.629707"
+       style="font-size:13.27128601000000100px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:2.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+       xml:space="preserve"
+       transform="scale(1.0025931,0.9974136)"><tspan
+         id="tspan3785"
+         style="text-align:center;text-anchor:middle;stroke-width:2.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+         y="351.45819"
+         x="82.629707"
+         sodipodi:role="line">Luz Acende</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.55955696px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="44.389687"
+       y="135.32417"
+       id="text3789"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0025931,0.9974136)"><tspan
+         sodipodi:role="line"
+         id="tspan3791"
+         x="44.389687"
+         y="135.32417">ROTEIRO</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3793"
+       y="143.76076"
+       x="418.06689"
+       style="font-size:18.55955696px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       transform="scale(1.0025931,0.9974136)"><tspan
+         y="143.76076"
+         x="418.06689"
+         id="tspan3795"
+         sodipodi:role="line">Ações do jogador</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;stroke:#000000;stroke-width:4.31044763;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3797"
+       sodipodi:cx="1013.183"
+       sodipodi:cy="181.61069"
+       sodipodi:rx="152.53304"
+       sodipodi:ry="50.507626"
+       d="m 1165.716,181.61069 a 152.53304,50.507626 0 1 1 -305.06605,0 152.53304,50.507626 0 1 1 305.06605,0 z"
+       transform="matrix(0.46519211,0,0,0.46278887,-56.057028,131.33458)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.55955695999999800px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:2.00000001;stroke-miterlimit:4;stroke-dasharray:none"
+       x="413.67706"
+       y="222.51065"
+       id="text3799"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0025931,0.9974136)"><tspan
+         sodipodi:role="line"
+         id="tspan3801"
+         x="413.67706"
+         y="222.51065">Início</tspan></text>
+    <path
+       d="m 1165.716,181.61069 a 152.53304,50.507626 0 1 1 -305.06605,0 152.53304,50.507626 0 1 1 305.06605,0 z"
+       sodipodi:ry="50.507626"
+       sodipodi:rx="152.53304"
+       sodipodi:cy="181.61069"
+       sodipodi:cx="1013.183"
+       id="path3803"
+       style="fill:#ffffff;stroke:#000000;stroke-width:3.32583594;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc"
+       transform="matrix(0.60099407,0,0,0.60171128,-193.64927,189.48602)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3805"
+       y="295.366"
+       x="413.67706"
+       style="font-size:18.55955696px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       transform="scale(1.0025931,0.9974136)"><tspan
+         y="295.366"
+         x="413.67706"
+         id="tspan3807"
+         sodipodi:role="line">Pegar pílulas no</tspan><tspan
+         y="318.56543"
+         x="413.67706"
+         sodipodi:role="line"
+         id="tspan3809">criado mudo</tspan></text>
+    <path
+       transform="matrix(0.60099407,0,0,0.60171128,-193.64927,272.34316)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;stroke:#000000;stroke-width:3.32583594;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3811"
+       sodipodi:cx="1013.183"
+       sodipodi:cy="181.61069"
+       sodipodi:rx="152.53304"
+       sodipodi:ry="50.507626"
+       d="m 1165.716,181.61069 a 152.53304,50.507626 0 1 1 -305.06605,0 152.53304,50.507626 0 1 1 305.06605,0 z" />
+    <text
+       transform="scale(1.0025931,0.9974136)"
+       xml:space="preserve"
+       style="font-size:18.55955696px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="413.67706"
+       y="378.43799"
+       id="text3813"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3817"
+         sodipodi:role="line"
+         x="413.67706"
+         y="378.43799">Pegar água</tspan><tspan
+         sodipodi:role="line"
+         x="413.67706"
+         y="401.63742"
+         id="tspan3825">na cozinha</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.42938709px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="599.63879"
+       y="32.588928"
+       id="text3831"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3833"
+         x="599.63879"
+         y="32.588928">bom que a cozinha esteja</tspan><tspan
+         sodipodi:role="line"
+         x="599.63879"
+         y="49.375664"
+         id="tspan3835"> bem longe do  quarto</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3837"
+       width="117.62715"
+       height="40.665291"
+       x="23.690199"
+       y="383.21783"
+       rx="15.714287"
+       ry="15.714287" />
+    <text
+       transform="scale(1.0025931,0.9974136)"
+       xml:space="preserve"
+       style="font-size:13.27128601px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="82.629707"
+       y="399.73361"
+       id="text3839"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="82.629707"
+         y="399.73361"
+         style="text-align:center;text-anchor:middle"
+         id="tspan3841">Personagem pega</tspan><tspan
+         sodipodi:role="line"
+         x="82.629707"
+         y="416.32272"
+         style="text-align:center;text-anchor:middle"
+         id="tspan3843">pílula</tspan></text>
+    <rect
+       ry="15.714287"
+       rx="15.714287"
+       y="440.79654"
+       x="15.608979"
+       height="40.665291"
+       width="133.7896"
+       id="rect3845"
+       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3847"
+       y="457.46161"
+       x="82.629707"
+       style="font-size:13.27128601px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       transform="scale(1.0025931,0.9974136)"><tspan
+         id="tspan3851"
+         style="text-align:center;text-anchor:middle"
+         y="457.46161"
+         x="82.629707"
+         sodipodi:role="line">Personagem se</tspan><tspan
+         style="text-align:center;text-anchor:middle"
+         y="474.05072"
+         x="82.629707"
+         sodipodi:role="line"
+         id="tspan3855">dirige para a cozinha</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3857"
+       width="133.7896"
+       height="40.665291"
+       x="15.608979"
+       y="496.35492"
+       rx="15.714287"
+       ry="15.714287" />
+    <text
+       transform="scale(1.0025931,0.9974136)"
+       xml:space="preserve"
+       style="font-size:13.27128601px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="82.629707"
+       y="513.16406"
+       id="text3859"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3863"
+         sodipodi:role="line"
+         x="84.470062"
+         y="513.16406"
+         style="text-align:center;text-anchor:middle">Personagem </tspan><tspan
+         sodipodi:role="line"
+         x="82.629707"
+         y="529.75317"
+         style="text-align:center;text-anchor:middle"
+         id="tspan3867">pega água</tspan></text>
+    <rect
+       ry="15.714287"
+       rx="15.714287"
+       y="554.94379"
+       x="15.608979"
+       height="40.665291"
+       width="133.7896"
+       id="rect3869"
+       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3871"
+       y="571.90485"
+       x="82.629707"
+       style="font-size:13.27128601px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       transform="scale(1.0025931,0.9974136)"><tspan
+         style="text-align:center;text-anchor:middle"
+         y="571.90485"
+         x="82.629707"
+         sodipodi:role="line"
+         id="tspan3879">Barulho alto</tspan><tspan
+         style="text-align:center;text-anchor:middle"
+         y="588.49396"
+         x="82.629707"
+         sodipodi:role="line"
+         id="tspan3883">de algo quebrando</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3885"
+       width="133.7896"
+       height="40.665291"
+       x="15.608979"
+       y="609.492"
+       rx="15.714287"
+       ry="15.714287" />
+    <text
+       transform="scale(1.0025931,0.9974136)"
+       xml:space="preserve"
+       style="font-size:13.27128601px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="82.629707"
+       y="626.59454"
+       id="text3887"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="82.629707"
+         y="626.59454"
+         style="text-align:center;text-anchor:middle"
+         id="tspan3895">Portas da sala se</tspan><tspan
+         sodipodi:role="line"
+         x="82.629707"
+         y="643.18365"
+         style="text-align:center;text-anchor:middle"
+         id="tspan3899">trancam ao voltar</tspan></text>
+    <path
+       d="m 1165.716,181.61069 a 152.53304,50.507626 0 1 1 -305.06605,0 152.53304,50.507626 0 1 1 305.06605,0 z"
+       sodipodi:ry="50.507626"
+       sodipodi:rx="152.53304"
+       sodipodi:cy="181.61069"
+       sodipodi:cx="1013.183"
+       id="path3901"
+       style="fill:#ffffff;stroke:#000000;stroke-width:3.32583594;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc"
+       transform="matrix(0.60099407,0,0,0.60171128,-193.64927,357.19597)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3903"
+       y="463.51083"
+       x="413.67706"
+       style="font-size:18.55955696px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       transform="scale(1.0025931,0.9974136)"><tspan
+         id="tspan3907"
+         y="463.51083"
+         x="413.67706"
+         sodipodi:role="line">Voltar para a sala</tspan></text>
+  </g>
+</svg>
